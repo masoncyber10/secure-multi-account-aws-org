@@ -25,7 +25,7 @@ Creating the two groups (Admin & ReadOnly-Auditors):
 <img width="1673" height="719" alt="image" src="https://github.com/user-attachments/assets/f386bf63-d397-4dd2-8644-5e96700658a4" />
 
 #### Assigning Permission Set to Accounts
-- Create a permission set --> Use predefined permission set (ReadOnlyAccess) --> Click Next
+- Create a permission set --> Use predefined permission set (ViewOnlyAccess) --> Click Next
 - Leave next page default and create permission set
 - Click on the AWS Accounts
 - Check the AWS accounts that you are assigning the groups to
